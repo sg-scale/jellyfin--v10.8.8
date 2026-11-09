@@ -27,10 +27,10 @@
 
   <ItemGroup>
     <PackageReference Include="BDInfo" Version="0.7.6.2" />
-    <PackageReference Include="libse" Version="3.6.5" />
+    <PackageReference Include="libse" Version="5.4.0" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0" />
     <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
-    <PackageReference Include="UTF.Unknown" Version="2.5.1" />
+    <PackageReference Include="UTF.Unknown" Version="2.8.0" />
   </ItemGroup>
 
   <!-- Code Analyzers-->
